@@ -2,6 +2,11 @@
     font-family: Ubuntu;
 }
 
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+
 div.header h1{
     margin: 0;
 }
