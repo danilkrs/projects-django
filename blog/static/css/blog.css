@@ -1,0 +1,30 @@
+* {
+    font-family: Ubuntu;
+}
+
+div.header h1{
+    margin: 0;
+}
+
+div.header{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    position: fixed;
+    z-index: 100;
+    height: 20vh;
+    width: 100%;
+    background: #357ebd;
+}
+
+div.header:hover {
+    background: #bce8f1;
+}
+
+div.body{
+    padding-top: 30vh;
+}
+
+.panel-heading:hover{
+    background: #bce8f1;
+}
